@@ -9,7 +9,7 @@ Hi 👋, i'm Esteban Durante
 
 <ul>
   <li>
-    📙 i'm currently brushing up MYSQL at the university and learning Java self taught
+    📙 i'm currently learning Spring and doing a login-register system
   </li>
   <li>
     📞 If you are looking for someone in back-end or front-end on your team, you can send me an email <a href="mailto:estebandurante194@gmail.com" target="_blank">here</a> 
