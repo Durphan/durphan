@@ -33,7 +33,7 @@ Hobbys
 <ul>
   <li>Practice Axios with Rick and morty project [🟢]</li>
   <li>Make a Portfolio [🟢]</li>
-  <li>Be part of a GlobalGameJam [🟢]</li>
+  <li>Be part of a Global Game Jam team [🟢]</li>
   <li>Contribute to at least one open-source project [🟢]</li>
   <li>Learn Java [🟢]</li>
   <li>Learn Spring framework [🟡] </li>
