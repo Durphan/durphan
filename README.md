@@ -36,6 +36,7 @@ Hobbys
   <li>Be part of a Global Game Jam team [🟢]</li>
   <li>Contribute to at least one open-source project [🟢]</li>
   <li>Learn Java [🟢]</li>
+<li>Learn JDBC [🟢]</li>
   <li>Learn Spring framework [🟡] </li>
   <li>Make a Login and register system using Spring [🟡]</li>
   <li>Make a Follow tracker consuming Twitter API [🔴]</li>
