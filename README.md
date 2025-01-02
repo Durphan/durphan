@@ -37,10 +37,8 @@ Hobbys
   <li>Contribute to at least one open-source project [🟢]</li>
   <li>Learn Java [🟢]</li>
 <li>Learn JDBC [🟢]</li>
-  <li>Learn Spring framework [🟡] </li>
-  <li>Make a Login and register system using Spring [🟡]</li>
-  <li>Make a Follow tracker consuming Twitter API [🔴]</li>
-  <li>Make a Task manager [🔴]</li>
+  <li>Learn Spring framework [🟢] </li>
+  <li>Make a Login and register system using Spring [🟢]</li>
   
 </ul>
 <hr/>
