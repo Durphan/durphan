@@ -26,22 +26,7 @@ Hobbys
     <a href="mailto:estebandurante194@gmail.com"><img src="https://www.svgrepo.com/show/223047/gmail.svg" height="50px" width="50px"/></a>
 </div>
 <hr/>
-<h2>
-  Objectives
-</h2>
-🟢 -> Done, 🔴 -> To do, 🟡 -> In progress
-<ul>
-  <li>Practice Axios with Rick and morty project [🟢]</li>
-  <li>Make a Portfolio [🟢]</li>
-  <li>Be part of a Global Game Jam team [🟢]</li>
-  <li>Contribute to at least one open-source project [🟢]</li>
-  <li>Learn Java [🟢]</li>
-<li>Learn JDBC [🟢]</li>
-  <li>Learn Spring framework [🟢] </li>
-  <li>Make a Login and register system using Spring [🟢]</li>
-  
-</ul>
-<hr/>
+
   
 ```JavaScript
 function climb(mountainHeight) {
